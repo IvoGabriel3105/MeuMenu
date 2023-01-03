@@ -1,0 +1,42 @@
+.Obj
+{
+    padding-left: 10%;
+}
+
+h1
+{
+    padding-left:  25%;
+    font-size: 50px;
+    color: rgb(250, 252, 250);
+    font-family: 'Courier New', Courier, monospace;
+}
+h5
+{
+    color: blue;
+}
+body
+{
+    background-image: url("astro.jpg");
+    background-repeat: no-repeat;
+    image-rendering: auto;
+}
+.card:hover
+{
+    -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -o-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        background-color: black;
+        color: white;
+}
+#gitimagem
+{
+    width: 8%;
+    
+}
+.objetoC
+{
+    padding-left: 35%;
+   
+}
